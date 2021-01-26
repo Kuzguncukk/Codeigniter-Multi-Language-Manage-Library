@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 
-/**
+/**s
 * @new_date 26.01.2021
 * @author Tolga Keskin
 * @version 1.0
@@ -10,6 +10,7 @@ class Language_Manage extends CI_Controller
 	
 	public function __construct()
 	{
+		parent::__construct();
 		parent::__construct();
 
 		$this->load->library('language');	
