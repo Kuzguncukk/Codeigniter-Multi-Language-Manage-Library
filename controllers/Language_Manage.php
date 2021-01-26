@@ -3,7 +3,7 @@
 /**s
 * @new_date 26.01.2021
 * @author Tolga Keskin
-* @version 1.0
+* @version 1.001
 */
 class Language_Manage extends CI_Controller
 {
